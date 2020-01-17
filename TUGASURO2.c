@@ -2,7 +2,7 @@
  * TUGASURO2.c
  *
  *  Created on: Jan 11, 2020
- *      Author: KELOMPOK URO AUDRIC, REHAGANA
+ *      Author: KELOMPOK URO AUDRIC OKTAVIO 16019301, REHAGANA, Luciana
  */
 
 #include <stdio.h>
